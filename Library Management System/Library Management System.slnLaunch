@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Library Management System\\Library Management System.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express (Google Chrome)"
+      }
+    ]
+  }
+]
